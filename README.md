@@ -6,5 +6,15 @@ Currently doing random things :P
 - Drawing and Designing
 - Thinking of an interesting Discord Bot
 
-### Contact Me
-### Tools and Technologies
+<!-- Contacts -->
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<!-- Tools and Technologies -->
+
+<!-- Links -->
+[linkedin]: https://www.linkedin.com/in/kyuds/
+[instagram]: https://www.instagram.com/kyu.ds/
+[github]: https://github.com/kyuds
