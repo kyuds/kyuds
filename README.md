@@ -4,6 +4,7 @@ Currently doing random things :P
 - Learning new libraries and frameworks
 - Exercising? (I try)
 - Drawing and Designing
+- Art with Code
 - Thinking of an interesting Discord Bot
 
 <!-- Contacts -->
