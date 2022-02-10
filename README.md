@@ -7,6 +7,12 @@ Currently doing random things :P
 - Art with Code
 - Thinking of an interesting Discord Bot
 
+Interested in
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Computer Security
+- Efficient Algorithm Design
+
 <!-- Contacts -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
