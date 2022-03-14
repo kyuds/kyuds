@@ -10,9 +10,12 @@ Currently doing random things :P
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/kyuds/
 [instagram]: https://www.instagram.com/kyu.ds/
 [github]: https://github.com/kyuds
+[website]: http://kyuds.github.io/
