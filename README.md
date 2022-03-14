@@ -2,9 +2,15 @@
 Currently doing random things :P
 - Searching for Boba places
 - Learning new libraries and frameworks
-- Exercising? (I try)
 - Drawing and Designing
 - Art with Code
+<br/>
+
+Some Technical Skills:
+- Web Development: React, Next.js, Django (REST APIs)
+- Machine Learning: PyTorch, WandB
+- Computer Vision: OpenCV, NumPy
+- Languages: Python, Javascript, Java, C, Solidity (Ethereum)
 
 <!-- Contacts -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
