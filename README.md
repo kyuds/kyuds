@@ -4,6 +4,7 @@ Currently doing random things :P
 - Learning new libraries and frameworks
 - Drawing and Designing
 - Art with Code
+- Complete Rehaul and Redesign of Personal Website
 
 Some Technical Skills:
 - Web Development: React, Next.js, Django (REST APIs)
