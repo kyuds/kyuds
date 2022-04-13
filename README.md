@@ -8,7 +8,7 @@ Currently doing random things :P
 
 Some Technical Skills:
 - Web Development: React, Next.js, Django (REST APIs)
-- ML & CV: PyTorch, WandB, OpenCV, NumPy
+- Machine Learning: PyTorch, WandB
 - Languages: Python, Javascript, Java, C, Solidity (Ethereum)
 
 <br/>
