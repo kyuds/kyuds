@@ -5,6 +5,7 @@ Currently doing random things :P
 - Drawing and Designing
 - Art with Code
 - Complete Rehaul and Redesign of Personal Website
+- ** Intern @ Fingenic **
 
 Some Technical Skills:
 - Web Development: React, Next.js, Django (REST APIs)
