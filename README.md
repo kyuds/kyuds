@@ -8,8 +8,9 @@ Currently doing random things :P
 - ** Intern @ Fingenic **
 
 Some Technical Skills:
-- Web Development: React, Next.js, Django (REST APIs)
+- Web Development: React, Node.js, Express.js, MongoDB
 - Machine Learning: PyTorch, WandB
+- Distributed Systems: Apache Zookeeper, Apache Kafka
 - Languages: Python, Javascript, Java, C, Solidity (Ethereum)
 
 <br/>
