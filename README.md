@@ -11,7 +11,7 @@ Some Technical Skills:
 - Web Development: React, Node.js, Express.js, MongoDB
 - Machine Learning: PyTorch, WandB
 - Distributed Systems: Apache Zookeeper, Apache Kafka
-- Languages: Python, Javascript, Java, C, Solidity (Ethereum)
+- Languages: Python, Javascript, Java, C/C++, Solidity (Ethereum)
 
 <br/>
 
