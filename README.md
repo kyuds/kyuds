@@ -1,10 +1,8 @@
 ### Hey! I'm Daniel Shin
-Currently doing random things :P
+Currently interests
 - Searching for Boba places
-- Learning new libraries and frameworks
-- Drawing and Designing
-- Art with Code
-- Complete Rehaul and Redesign of Personal Website
+- Distributed systems and their application to machine learning
+- Complete rehaul of personal website
 - ** Intern @ Fingenic **
 
 Some Technical Skills:
