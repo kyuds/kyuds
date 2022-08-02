@@ -1,5 +1,5 @@
 ### Hey! I'm Daniel Shin
-Currently interests
+Currently interests:
 - Searching for Boba places
 - Distributed systems and their application to machine learning
 - Complete rehaul of personal website
