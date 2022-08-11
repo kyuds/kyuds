@@ -7,7 +7,7 @@ Currently Interests:
 
 Some Technical Skills:
 - Web Development: React, Node.js, Express.js, MongoDB
-- Machine Learning: PyTorch, WandB
+- Machine Learning: PyTorch, WandB, NumPy
 - Distributed Systems: Apache Zookeeper, Apache Kafka
 - Languages: Python, Javascript, Java, C/C++, Solidity (Ethereum)
 
