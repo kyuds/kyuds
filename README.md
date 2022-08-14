@@ -10,6 +10,7 @@ Some Technical Skills:
 - Machine Learning: PyTorch, WandB, NumPy
 - Distributed Systems: Apache Zookeeper, Apache Kafka
 - Languages: Python, Golang, C/C++, Javascript, Java, Solidity (Ethereum)
+- DevOps/Tools: Git, Docker, Kubernetes
 
 <br/>
 
