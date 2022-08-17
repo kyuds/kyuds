@@ -4,6 +4,7 @@ Currently Interests:
 - Distributed systems and their application to machine learning
 - Complete rehaul of personal website
 - ** Intern @ Fingenic **
+- ** Research @ SkyLab **
 
 Some Technical Skills:
 - Web Development: React, Node.js, Express.js, MongoDB
