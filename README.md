@@ -13,6 +13,9 @@ Some Technical Skills:
 - Languages: Python, Golang, C/C++, Javascript, Java, Solidity (Ethereum)
 - DevOps/Tools: Git, Docker, Kubernetes, Postman
 
+<!-- [![k](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=kyuds&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <br/>
 
 <!-- Contacts -->
