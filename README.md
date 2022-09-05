@@ -7,9 +7,9 @@ Currently Interests:
 - ** Research @ SkyLab **
 
 Some Technical Skills:
-- Web Development: React, Node.js, Express.js, MongoDB
+- Web Development: React, Node.js, Express.js, MongoDB, PostgreSQL
 - Machine Learning: PyTorch, WandB, NumPy
-- Distributed Systems: Apache Zookeeper, Apache Kafka
+- Distributed Systems: Ray, Spark, Kafka, Zookeeper
 - Languages: Python, Golang, C/C++, Javascript, Java, Solidity (Ethereum)
 - DevOps/Tools: Git, Docker, Kubernetes, Postman
 
