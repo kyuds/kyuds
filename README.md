@@ -1,3 +1,4 @@
+<!--
 ### Hey! I'm Daniel Shin
 Currently Interests:
 - Searching for Boba places
@@ -13,10 +14,14 @@ Some Technical Skills:
 - Languages: Python, Golang, C/C++, Javascript, Java, Solidity (Ethereum)
 - DevOps/Tools: Git, Docker, Kubernetes, Postman
 
+-->
+
+![kyuds's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuds&theme=graywhite&show_icons=true)
+
 <!-- [![k](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=kyuds&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<br/>
+<!--<br/>-->
 
 <!-- Contacts -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
