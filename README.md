@@ -1,7 +1,7 @@
 ### Hey! I'm Daniel Shin
 
 Current Endeavors: 
-- Backend Intern @ Fingenic
+- Backend/Infra Intern @ Fingenic
 - Systems Research @ SkyLab
 
 <!--
