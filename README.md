@@ -1,7 +1,6 @@
 ### Hey! I'm Daniel Shin
 
 Current Endeavors: 
-- Backend/Infra Intern @ Fingenic
 - Systems Research @ SkyLab
 - NFT/Web3 Developer @ KSEA
 
