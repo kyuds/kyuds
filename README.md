@@ -2,7 +2,7 @@
 
 Current Endeavors: 
 - Systems Research @ SkyLab
-- NFT/Web3 Developer @ KSEA
+- NFT/Web Developer @ KSEA
 
 <!--
 
