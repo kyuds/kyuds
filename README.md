@@ -1,8 +1,9 @@
 ### Hey! I'm Daniel Shin
 
 Current Endeavors: 
-- Systems Research @ SkyLab
-- Studying Docker and Golang
+- [X] Systems Research @ SkyLab
+- [ ] Studying Docker and Golang
+- [X] Recruiting for Internships
 
 <!--
 
