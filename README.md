@@ -2,7 +2,7 @@
 
 Current Endeavors: 
 - Systems Research @ SkyLab
-- NFT/Web Developer @ KSEA
+- Studying Docker and Golang
 
 <!--
 
