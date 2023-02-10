@@ -2,8 +2,7 @@
 
 Current Endeavors: 
 - [X] Systems Research @ SkyLab
-- [ ] Studying Docker and Golang
-- [X] Recruiting for Internships
+- [ ] Studying Docker
 
 <!--
 
