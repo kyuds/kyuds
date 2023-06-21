@@ -1,7 +1,7 @@
 ### Hey! I'm Daniel Shin
 
 Current Endeavors: 
-- [X] Systems Research @ SkyLab
+- [ ] Systems Research @ SkyLab
 - [ ] Studying Docker
 
 <!--
