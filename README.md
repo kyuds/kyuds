@@ -1,8 +1,9 @@
 ### Hey! I'm Daniel Shin
 
-Current Endeavors: 
+Current Endeavors:
+- [X] Security Systems @ Everspin
 - [ ] Systems Research @ SkyLab
-- [ ] Studying Docker
+- [X] Studying Docker
 
 <!--
 
