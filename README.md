@@ -5,6 +5,9 @@ Current Endeavors:
 - [ ] Systems Research @ SkyLab
 - [ ] Studying Docker
 
+I Like ShellScripts:
+- [ ] [2048 in Mac zsh][2048]
+
 <br/>
 
 <!-- Contacts -->
@@ -20,3 +23,5 @@ Current Endeavors:
 [instagram]: https://www.instagram.com/kyu.ds/
 [github]: https://github.com/kyuds
 [website]: http://kyuds.github.io/
+
+[2048]: https://github.com/kyuds/zsh48
