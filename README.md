@@ -6,7 +6,7 @@ Current Endeavors:
 - [ ] Studying Docker
 
 I Like ShellScripts:
-- [ ] [2048 in Mac zsh][2048]
+- [ ] [2048 in Shell][2048]
 
 <br/>
 
