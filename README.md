@@ -24,4 +24,4 @@ I Like ShellScripts:
 [github]: https://github.com/kyuds
 [website]: http://kyuds.github.io/
 
-[2048]: https://github.com/kyuds/zsh48
+[2048]: https://github.com/kyuds/b48
