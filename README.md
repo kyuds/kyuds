@@ -4,9 +4,7 @@ Current Endeavors:
 - [X] Security Systems @ Everspin
 - [ ] Systems Research @ SkyLab
 - [ ] Studying Docker
-
-I Like ShellScripts:
-- [ ] [2048 in Shell][2048]
+- [X] [2048 in Shell][2048]
 
 <br/>
 
