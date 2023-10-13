@@ -3,8 +3,8 @@
 Current Endeavors:
 - [X] Security Systems @ Everspin
 - [ ] Systems Research @ SkyLab
-- [ ] Studying Docker
 - [X] [2048 in Shell][2048]
+- [ ] [Chord][go-chord]
 
 <br/>
 
@@ -23,3 +23,4 @@ Current Endeavors:
 [website]: http://kyuds.github.io/
 
 [2048]: https://github.com/kyuds/b48
+[go-chord]: https://github.com/kyuds/go-chord
