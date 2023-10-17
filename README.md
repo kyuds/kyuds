@@ -1,10 +1,14 @@
 ### Hey! I'm Daniel Shin
 
-Current Endeavors:
-- [X] Security Systems @ Everspin
-- [ ] Systems Research @ SkyLab
+> Security Systems @ Everspin (current)<br/>
+> Systems Research @ Berkeley SkyLab <br/>
+> SWE Intern @ Fingenic <br/>
+> Machine Learning @ Berkeley RISELab
+
+Current Projects:
 - [X] [2048 in Shell][2048]
 - [ ] [Chord][go-chord]
+- [ ] [DHT][dht]
 
 <br/>
 
@@ -24,3 +28,4 @@ Current Endeavors:
 
 [2048]: https://github.com/kyuds/b48
 [go-chord]: https://github.com/kyuds/go-chord
+[dht]: https://github.com/kyuds/dht
