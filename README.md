@@ -7,8 +7,7 @@
 
 Current Projects:
 - [X] [2048 in Shell][2048]
-- [ ] [Chord][go-chord]
-- [ ] [DHT][dht]
+- [X] [Chord][go-chord]
 
 <br/>
 
