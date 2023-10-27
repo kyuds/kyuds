@@ -9,6 +9,7 @@ Current Projects:
 - [X] [2048 in Shell][2048]
 - [X] [Chord][go-chord]
 - [ ] [TradeBot][tb]
+- [ ] [Paxos][paxos]
 
 <br/>
 
@@ -29,3 +30,4 @@ Current Projects:
 [2048]: https://github.com/kyuds/b48
 [go-chord]: https://github.com/kyuds/go-chord
 [tb]: https://github.com/kyuds/tradebot
+[paxos]: https://github.com/kyuds/paxos
