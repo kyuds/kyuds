@@ -5,12 +5,6 @@
 > SWE Intern @ Fingenic <br/>
 > Machine Learning @ Berkeley RISELab
 
-Current Projects:
-- [X] [2048 in Shell][2048]
-- [X] [Chord][go-chord]
-- [ ] [TradeBot][tb]
-- [ ] [Paxos][paxos]
-
 <br/>
 
 <!-- Contacts -->
