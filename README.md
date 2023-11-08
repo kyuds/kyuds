@@ -2,7 +2,7 @@
 
 > Security Systems @ Everspin (current)<br/>
 > Systems Research @ Berkeley SkyLab <br/>
-> SWE Intern @ Fingenic <br/>
+> Software Engineering Intern @ Cartly <br/>
 > Machine Learning @ Berkeley RISELab
 
 <br/>
@@ -20,8 +20,3 @@
 [instagram]: https://www.instagram.com/kyu.ds/
 [github]: https://github.com/kyuds
 [website]: http://kyuds.github.io/
-
-[2048]: https://github.com/kyuds/b48
-[go-chord]: https://github.com/kyuds/go-chord
-[tb]: https://github.com/kyuds/tradebot
-[paxos]: https://github.com/kyuds/paxos
