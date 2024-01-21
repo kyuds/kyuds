@@ -1,6 +1,6 @@
 ### Hey! I'm Daniel Shin
 
-> Security Research @ Everspin (current)<br/>
+> Security Systems @ Everspin (current)<br/>
 > Systems Research @ Berkeley SkyLab <br/>
 > Software Engineering Intern @ Cartly <br/>
 > Machine Learning @ Berkeley RISELab
